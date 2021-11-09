@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\loulo\source\repos\CG - Assignment4\CG - Assignment4\mesh.h(20,2): warning C4091: 'typedef ' : ignoré à gauche de 'ModelData' quand aucune variable n'est déclarée
+C:\Users\loulo\Documents\TCD\Computer Graphics\Lab 4\Lab 4 Sample Object Hierarchy\main.cpp(553,77): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\loulo\Documents\TCD\Computer Graphics\Lab 4\Lab 4 Sample Object Hierarchy\main.cpp(553,38): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\loulo\Documents\TCD\Computer Graphics\Lab 4\Lab 4 Sample Object Hierarchy\main.cpp(651,30): warning C4244: '+=' : conversion de 'double' en 'GLfloat', perte possible de données
+  CG - Assignment4.vcxproj -> C:\Users\loulo\source\repos\CG - Assignment4\Debug\CG - Assignment4.exe
